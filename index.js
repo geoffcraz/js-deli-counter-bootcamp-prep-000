@@ -20,6 +20,6 @@ function currentLine(line){
   if (katzDeliLine.length == 0) {
     return "The line is empty."
   } else {
-    
+
     }
 }
