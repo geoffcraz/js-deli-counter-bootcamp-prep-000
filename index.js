@@ -21,10 +21,16 @@ function currentLine(katzDeliLine){
     return "The line is currently empty."
   } else {
 
+var currentIsh = []
+
     for (i = 0, l = KatzDeliLine.length; i < l; i++){
       return`The line is currently ${katzDeliLine}`
 
     }
+    currentIsh.push(`${i + 1}. ${line[i]}`)
+}
+
+return `The line is currently: ${numbersAndNames.join(', ')}`
 
     }
 }
