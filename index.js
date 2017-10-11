@@ -6,9 +6,10 @@ function takeANumber(katzDeliLine, name){
 
 }
 
-function nowServing(line){
+/*function nowServing(line){
   if  line.length == 0{
 
   }
 
 }
+*/
