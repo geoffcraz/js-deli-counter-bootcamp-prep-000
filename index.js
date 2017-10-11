@@ -23,7 +23,7 @@ function currentLine(katzDeliLine){
 
     for (i = 0, l = KatzDeliLine.length); i < l; i++){
       return`The line is currently ${katzDeliLine}`
-      
+
     }
 
     }
